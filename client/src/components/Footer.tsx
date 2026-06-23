@@ -61,7 +61,7 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a href="mailto:trustledal@trustlegalcorperate.online" className="hover:text-accent transition-colors  cursors-pointer">
+                <a href="mailto:trustledal@trustcorperate.online" className="hover:text-accent transition-colors  cursors-pointer">
                   trustledal@trustlegalcorperate.online
                 </a>
               </li>
