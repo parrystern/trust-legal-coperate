@@ -30,7 +30,7 @@ function Router() {
 function App() {
   useEffect(() => {
     window.$crisp = [];
-    window.CRISP_WEBSITE_ID = "5af1aabd-9740-45fa-8fec-6afa7761ac89";
+    window.CRISP_WEBSITE_ID = "4cacdf91-f9a5-48ef-a376-6be0738a04b4";
 
     const script = document.createElement("script");
     script.src = "https://client.crisp.chat/l.js";
