@@ -201,8 +201,8 @@ export default function Contact() {
                     </div>
                     <div>
                       <p className="font-semibold text-foreground mb-1">Email</p>
-                      <a href="mailto:trustledal@trustcorperate.online" className="text-accent hover:text-primary transition-colors">
-                        trustledal@trustcorperate.online
+                      <a href="mailto:trustedlegal@trustcorperate.online  " className="text-accent hover:text-primary transition-colors">
+                        trustedlegal@trustcorperate.online  
                       </a>
                     </div>
                   </div>
