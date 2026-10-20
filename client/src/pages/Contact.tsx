@@ -198,7 +198,6 @@ export default function Contact() {
                       <Mail size={24} className="text-accent mt-1" />
                     </div>
                     <div>
-                      <p className="font-semibold text-foreground mb-1">Email</p>
                       <a href="mailto:trustedlegal@trustcorperate.online  " className="text-accent hover:text-primary transition-colors">
                         trustedlegal@trustcorperate.online  
                       </a>
