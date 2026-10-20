@@ -188,9 +188,7 @@ export default function Contact() {
                     </div>
                     <div>
                       <p className="font-semibold text-foreground mb-1">Phone</p>
-                      <a href="tel:+13182619350" className="text-accent hover:text-primary transition-colors">
-                       +13182619350
-                      </a>
+                     
                     </div>
                   </div>
 
