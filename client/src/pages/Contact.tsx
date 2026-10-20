@@ -186,10 +186,7 @@ export default function Contact() {
                     <div className="flex-shrink-0">
                       <Phone size={24} className="text-accent mt-1" />
                     </div>
-                    <div>
-                      <p className="font-semibold text-foreground mb-1">Phone</p>
-                     
-                    </div>
+                  
                   </div>
 
                   {/* Email */}
