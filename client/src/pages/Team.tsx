@@ -11,11 +11,11 @@ import Footer from '@/components/Footer';
 export default function Team() {
   const team = [
     {
-      name: 'Michael Richardson',
+      name: 'John W. Breeze',
       title: 'Senior Partner, Head of Corporate Law',
       credentials: 'LLB (Hons), Solicitor (20+ years)',
       specialisms: ['M&A', 'Corporate Governance', 'Commercial Transactions'],
-      bio: 'Michael leads our corporate practice with extensive experience in high-value transactions and complex corporate restructuring. He has advised FTSE-listed companies and private equity firms on major acquisitions and strategic matters.',
+      bio: 'John leads our corporate practice with extensive experience in high-value transactions and complex corporate restructuring. He has advised FTSE-listed companies and private equity firms on major acquisitions and strategic matters.',
     },
     {
       name: 'Sarah Thompson',
