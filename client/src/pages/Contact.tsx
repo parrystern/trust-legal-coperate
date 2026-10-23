@@ -187,11 +187,10 @@ export default function Contact() {
                       <Phone size={24} className="text-accent mt-1" />
                     </div>
                     <div>
-                      <a href="tel:+44 7737997410" className="text-accent hover:text-primary transition-colors">
-                        +44 7737 997 410
+                      <a href="tel:+447737997410" className="text-accent hover:text-primary transition-colors">
+                        +447737 997 410
                       </a>
-                    </div>
-                  
+                    </div>      
                   </div>
 
                   {/* Email */}

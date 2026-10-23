@@ -57,8 +57,8 @@ export default function Footer() {
             <ul className="space-y-2 text-sm text-primary-foreground/80">
               
               <li>
-                <a href="tel:+44 7737997410" className="hover:text-accent transition-colors cursors-pointer">
-                  +44 7737 997 410
+                <a href="tel:+447737997410" className="hover:text-accent transition-colors cursors-pointer">
+                  +447737 997 410
                 </a>
               </li>
               <li>
