@@ -186,6 +186,11 @@ export default function Contact() {
                     <div className="flex-shrink-0">
                       <Phone size={24} className="text-accent mt-1" />
                     </div>
+                    <div>
+                      <a href="tel:+44 7737997410" className="text-accent hover:text-primary transition-colors">
+                        +44 7737 997 410
+                      </a>
+                    </div>
                   
                   </div>
 
@@ -195,11 +200,6 @@ export default function Contact() {
                       <Mail size={24} className="text-accent mt-1" />
                     </div>
                     <div>
-                      <li>
-                <a href="tel:+44 7737997410" className="hover:text-accent transition-colors cursors-pointer">
-                  +44 7737 997 410
-                </a>
-              </li>
                       <a href="mailto:trustedlegal@trustcorperate.online  " className="text-accent hover:text-primary transition-colors">
                         trustedlegal@trustcorperate.online  
                       </a>
